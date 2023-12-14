@@ -6,7 +6,7 @@
 ## Prerequisites
 
 - Python 3.11 or higher
-- Poetry
+- [Poetry](https://python-poetry.org/docs/#installing-with-pipx)
 
 ## Installation
 
