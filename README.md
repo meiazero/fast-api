@@ -1,7 +1,8 @@
 # fast-api
 > An example of a FastAPI project
 
-:warning: This project is a work in progress.
+:warning: This project is a work in progress, to see more about this read [here](https://fastapidozero.dunossauro.com)
+
 
 ## Prerequisites
 
