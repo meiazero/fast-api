@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fast-zero"
+name = "fast-api"
 version = "0.1.0"
 description = ""
 authors = ["Emanuel Avila <avilaemanueel@gmail.com>"]
